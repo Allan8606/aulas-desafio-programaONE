@@ -23,7 +23,7 @@ public class Main {
 
 
             if (numeroUsuario == numeroAleatorio){
-                System.out.println("Parabéns! Você acertou na " + tentativas + "º tentativa, " + "o número era: " + numeroAleatorio + ".");
+                System.out.println("Parabéns! Você acertou na " + tentativas + "º tentativa, " + "o número era: " + numeroAleatorio);
                 break;
             } else if (numeroUsuario < numeroAleatorio) {
                 System.out.println("O número aleatório é maior que o número que você escolheu.");
