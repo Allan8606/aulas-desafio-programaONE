@@ -1,12 +1,13 @@
+import br.com.alura.screenmatch.modelos.Filme;
+
 public class Main {
     public static void main(String[] args) {
 
         Filme meuFilme = new Filme ();
 
-        meuFilme.nome = "Velozes e Furiosos";
-        meuFilme.anoDeLancamento = 2014;
-        meuFilme.incluidoNoPlano = true;
-        meuFilme.duracaoEmMinutos = 137;
+        meuFilme.setNome("Velozes e Furiosos");
+        meuFilme.setAnoDeLancamento(2014);
+        meuFilme.setDuracaoEmMinutos(137);
 
         meuFilme.exibiFichaTecnica();
 
@@ -14,9 +15,8 @@ public class Main {
         meuFilme.avalia(10);
         meuFilme.avalia(9);
 
-        System.out.println(meuFilme.somaAvaliacoes);
-        System.out.println(meuFilme.totalDeAvaliacoes);
 
+        System.out.println(meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMediaDasAvaliacoes());
 
     }
