@@ -9,9 +9,9 @@ public class Main {
         meuFilme.setNome("Velozes e Furiosos");
         meuFilme.setAnoDeLancamento(2014);
         meuFilme.setDuracaoEmMinutos(137);
+        System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
 
         meuFilme.exibiFichaTecnica();
-
         meuFilme.avalia(8);//esse nome nota foi a IDE que declarou, mas em, outras IDEs não tem necessidades
         meuFilme.avalia(10);
         meuFilme.avalia(9);
@@ -26,9 +26,8 @@ public class Main {
         dragonBall.setAnoDeLancamento(1989);
         dragonBall.exibiFichaTecnica();
         dragonBall.setTemporadas(10);
-        dragonBall.setDuracaoEmMinutos(25);
-
-
+        dragonBall.setMinutosPorEpisodio(25);
+        System.out.println("Duração para maratonar DragonBall: " + dragonBall.getDuracaoEmMinutos());
 
     }
 }
