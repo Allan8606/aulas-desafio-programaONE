@@ -1,4 +1,5 @@
 import br.com.alura.screenmatch.modelos.Filme;
+import br.com.alura.screenmatch.modelos.Serie;
 
 public class Main {
     public static void main(String[] args) {
@@ -18,6 +19,16 @@ public class Main {
 
         System.out.println(meuFilme.getTotalDeAvaliacoes());
         System.out.println(meuFilme.pegaMediaDasAvaliacoes());
+
+
+        Serie dragonBall = new Serie();
+        dragonBall.setNome("Dragon Ball");
+        dragonBall.setAnoDeLancamento(1989);
+        dragonBall.exibiFichaTecnica();
+        dragonBall.setTemporadas(10);
+        dragonBall.setDuracaoEmMinutos(25);
+
+
 
     }
 }
