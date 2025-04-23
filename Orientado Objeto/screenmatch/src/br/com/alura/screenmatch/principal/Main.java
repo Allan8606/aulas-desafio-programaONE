@@ -1,16 +1,19 @@
+package br.com.alura.screenmatch.principal;
+
 import br.com.alura.screenmatch.calculo.CalculadoraDeTempo;
 import br.com.alura.screenmatch.calculo.Recomendacao;
 import br.com.alura.screenmatch.modelos.Episodio;
 import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 
+import java.util.ArrayList;
+
 public class Main {
     public static void main(String[] args) {
 
-        Filme meuFilme = new Filme ();
-
-        meuFilme.setNome("Velozes e Furiosos");
-        meuFilme.setAnoDeLancamento(2014);
+        Filme meuFilme = new Filme ("Velozes e Furiosos", 2014);
+        //menos eficente: meuFilme.setNome("Velozes e Furiosos");
+        //meuFilme.setAnoDeLancamento(2014);
         meuFilme.setDuracaoEmMinutos(137);
         System.out.println("Duração do filme: " + meuFilme.getDuracaoEmMinutos());
 
@@ -24,9 +27,9 @@ public class Main {
         System.out.println(meuFilme.pegaMediaDasAvaliacoes());
 
 
-        Serie dragonBall = new Serie();
-        dragonBall.setNome("Dragon Ball");
-        dragonBall.setAnoDeLancamento(1989);
+        Serie dragonBall = new Serie("Dragon Ball", 1989);
+        // dragonBall.setNome("Dragon Ball");
+        //dragonBall.setAnoDeLancamento(1989);
         dragonBall.exibiFichaTecnica();
         dragonBall.setTemporadas(10);
         dragonBall.setEpisodiosPorTemporada(25);
@@ -47,6 +50,27 @@ public class Main {
         episodio.setSerie(dragonBall);
         episodio.setTotalVisualizacoes(300);
         filtroRecomendacao.filtra(episodio);
+
+
+
+        var batman = new Filme("Batman - O Cavaleiro das Trevas", 2008); //Posso usar o var, pois ele sabe que o filme é um Filme
+        // maneira menos eficiente: batman.setNome("Batman - O Cavaleiro das Trevas");
+        //batman.setAnoDeLancamento(2008);
+        batman.setDuracaoEmMinutos(160);
+        batman.avalia(10);
+
+        ArrayList <Filme> listaDeFilmes = new ArrayList<>();
+        listaDeFilmes.add(batman);
+        listaDeFilmes.add(meuFilme);
+        System.out.println("Tamanho da minha lista: " + listaDeFilmes.size());
+        System.out.println("O primeiro filme da minha lista é: " + listaDeFilmes.get(0).getNome());
+        System.out.println(listaDeFilmes);
+        System.out.println("toString do Filme: " + listaDeFilmes.get(0).toString());
+
+
+
+
+
 
     }
 }

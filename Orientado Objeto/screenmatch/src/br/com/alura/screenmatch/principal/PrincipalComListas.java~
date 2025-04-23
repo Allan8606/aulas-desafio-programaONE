@@ -1,0 +1,38 @@
+package br.com.alura.screenmatch.principal;
+
+import br.com.alura.screenmatch.modelos.Filme;
+import br.com.alura.screenmatch.modelos.Serie;
+import br.com.alura.screenmatch.modelos.Titulo;
+
+import java.util.ArrayList;
+
+public class PrincipalComListas {
+    public static void main(String[] args) {
+        Filme meuFilme = new Filme ("Velozes e Furiosos", 2014);
+        meuFilme.avalia(8);
+        var batman = new Filme("Batman - O Cavaleiro das Trevas", 2008);
+        batman.avalia(10);
+        Serie dragonBall = new Serie("Dragon Ball", 1989);
+
+        
+
+        ArrayList<Titulo> listaDeAssistidos = new ArrayList<>();
+        listaDeAssistidos.add(batman);
+        listaDeAssistidos.add(meuFilme);
+        listaDeAssistidos.add(dragonBall);
+
+        for (Titulo item : listaDeAssistidos) {
+            System.out.println(item.getNome());
+            if (item instanceof Filme filme) //pegou um item que somente tem no fiulme e nao tem na serie
+                {
+                System.out.println("Classificação: " + filme.getClassificacao());
+            }
+
+
+
+
+        }
+
+
+    }
+}
