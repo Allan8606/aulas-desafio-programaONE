@@ -4,7 +4,7 @@ import br.com.alura.screenmatch.modelos.Filme;
 import br.com.alura.screenmatch.modelos.Serie;
 import br.com.alura.screenmatch.modelos.Titulo;
 
-import java.util.ArrayList;
+import java.util.*;
 
 public class PrincipalComListas {
     public static void main(String[] args) {
@@ -16,7 +16,7 @@ public class PrincipalComListas {
 
 
 
-        ArrayList<Titulo> listaDeAssistidos = new ArrayList<>();
+        List<Titulo> listaDeAssistidos = new LinkedList<>();
         listaDeAssistidos.add(batman);
         listaDeAssistidos.add(meuFilme);
         listaDeAssistidos.add(dragonBall);
@@ -27,11 +27,24 @@ public class PrincipalComListas {
                 {
                 System.out.println("Classificação: " + filme.getClassificacao());
             }
-
-
-
-
         }
+
+        ArrayList<String> buscaPorArtista = new ArrayList<>();
+        buscaPorArtista.add("Allan");
+        buscaPorArtista.add("Roberta");
+        buscaPorArtista.add("Jose Arthur");
+        buscaPorArtista.add("Theo");
+
+        Collections.sort(buscaPorArtista);
+        System.out.println(buscaPorArtista);
+
+        System.out.println("Antes: " + listaDeAssistidos); ;
+
+        Collections.sort(listaDeAssistidos);
+        System.out.println("Depois: " + listaDeAssistidos);
+
+        listaDeAssistidos.sort(Comparator.comparing(Titulo::getAnoDeLancamento));
+        System.out.println(listaDeAssistidos);
 
 
     }
