@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c0a285-93c8-4f4b-92a9-addf15e7e8ef" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/primeiro-projeto-alura-oracle.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Condicional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Leitura.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/OutroLoopComWhile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/primeiro-projeto-alura-oracle.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Orientado Objeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Orientado Objeto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafio05/Desafio05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafio05/Desafio05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 03/Desafios 03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 03/Desafios 03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 04/Desafios 04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 04/Desafios 04.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 05/Desafios 05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 05/Desafios 05.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 06/Desafios 06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 06/Desafios 06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 07/Desafios 07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 07/Desafios 07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/Desafios08.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/src/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Projeto/Projeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto/Projeto.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Projeto02/Projeto02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto02/Projeto02.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Testese e Desafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Testese e Desafios.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,25 +29,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2vYMzXwuUWESksbRXdSWe0GN62o" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Condicional.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "com.codeium.enabled": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Programacao/Conteudos e Cursos/Java-Alura-Oracle/aulas-desafio-programaONE/Orientado Objeto"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Programacao/Conteudos e Cursos/Java-Alura-Oracle/aulas-desafio-programaONE/Orientado Objeto&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
