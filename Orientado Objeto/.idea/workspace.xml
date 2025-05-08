@@ -5,21 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c0a285-93c8-4f4b-92a9-addf15e7e8ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/TituloOMDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/aulas-desafio-programaONE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/aulas-desafio-programaONE.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Orientado Objeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Orientado Objeto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafio05/Desafio05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafio05/Desafio05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 03/Desafios 03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 03/Desafios 03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 04/Desafios 04.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 04/Desafios 04.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 05/Desafios 05.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 05/Desafios 05.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 06/Desafios 06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 06/Desafios 06.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios 07/Desafios 07.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Desafios 07/Desafios 07.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/Desafios08.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Desafios08/src/Titulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Projeto/Projeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto/Projeto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Projeto02/Projeto02.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto02/Projeto02.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Testese e Desafios/Testese e Desafios.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Testese e Desafios/Testese e Desafios.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Classificavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Classificavel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Recomendacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Recomendacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Episodio.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Filme.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Filme.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Titulo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComListas.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
