@@ -5,20 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e9c0a285-93c8-4f4b-92a9-addf15e7e8ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/TituloOMDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/aulas-desafio-programaONE.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/aulas-desafio-programaONE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto03/Projeto03/src/ConsultaCep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto03/Projeto03/src/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Testese e Desafios/Projeto03/Projeto03/src/GeradorDeArquivo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Orientado Objeto.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Orientado Objeto.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" afterPath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Classificavel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Classificavel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Recomendacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/calculo/Recomendacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Episodio.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Episodio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Filme.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Filme.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Serie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/out/production/screenmatch/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/out/production/screenmatch/br/com/alura/screenmatch/modelos/Filme.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/out/production/screenmatch/br/com/alura/screenmatch/modelos/Serie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/out/production/screenmatch/br/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/screenmatch.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/calculo/CalculadoraDeTempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/calculo/Classificavel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/calculo/Recomendacao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Episodio.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Filme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Serie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/Titulo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/modelos/TituloOMDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComBusca.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenmatch/src/br/com/alura/screenmatch/principal/PrincipalComListas.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Titulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/modelos/Titulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComListas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComListas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComBusca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Orientado Objeto/br/com/alura/screenmatch/principal/PrincipalComBusca.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,17 +49,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Condicional.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;com.codeium.enabled&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Programacao/Conteudos e Cursos/Java-Alura-Oracle/aulas-desafio-programaONE/Orientado Objeto&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Condicional.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.codeium.enabled": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Programacao/Conteudos e Cursos/Java-Alura-Oracle/aulas-desafio-programaONE/Orientado Objeto/br/com/alura/screenmatch"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

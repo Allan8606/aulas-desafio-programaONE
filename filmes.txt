@@ -1,0 +1,1 @@
+nome = Batman', ano do lançamento = 1989, Duracao em minutos = 12
